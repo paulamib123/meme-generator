@@ -1,3 +1,3 @@
-# React
+# Meme Generator
 
-This repository consists of my react projects.
+This generates a meme along with some text of your choice.
