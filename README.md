@@ -2,14 +2,14 @@
 
 This generates a random meme along with some text of your choice.
 
-Developed by using React and imgflip api.
+Developed by using React and Imgflip api.
 
-### References
+### References:
 
 API: https://api.imgflip.com/get_memes
 
 
-### Below are some snapshots: 
+### Snapshot: 
 <br/>
 
 <img src="https://raw.githubusercontent.com/paulamib123/meme-generator/master/meme-sc.png" style="width:600px;">
